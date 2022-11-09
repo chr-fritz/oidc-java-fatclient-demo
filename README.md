@@ -4,6 +4,10 @@ This repository contains a small demo about how to authenticate a java client ap
 with [OpenID Connect](https://openid.net/connect/) and
 the [OAuth2 Authorization Code Flow with PKCE](https://www.rfc-editor.org/rfc/rfc7636).
 
+It was part of my Talk at the JUG Nürnberg. The slides are available on SlideShare: 
+
+<https://www.slideshare.net/QAware/anwendungsbergreifende-authentifizierung-integrationspattern-fr-openid-connect>
+
 ## Run the demo
 
 ### Keycloak Setup
